@@ -1,0 +1,6 @@
+C:\Users\ktolb\source\repos\exposing_demo\exposing_demo\bin\Debug\exposing_demo.exe
+C:\Users\ktolb\source\repos\exposing_demo\exposing_demo\bin\Debug\exposing_demo.pdb
+C:\Users\ktolb\source\repos\exposing_demo\exposing_demo\obj\Debug\exposing_demo.csprojAssemblyReference.cache
+C:\Users\ktolb\source\repos\exposing_demo\exposing_demo\obj\Debug\exposing_demo.csproj.CoreCompileInputs.cache
+C:\Users\ktolb\source\repos\exposing_demo\exposing_demo\obj\Debug\exposing_demo.exe
+C:\Users\ktolb\source\repos\exposing_demo\exposing_demo\obj\Debug\exposing_demo.pdb

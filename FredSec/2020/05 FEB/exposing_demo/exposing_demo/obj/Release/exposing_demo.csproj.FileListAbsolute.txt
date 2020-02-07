@@ -1,0 +1,5 @@
+C:\Users\ktolb\source\repos\exposing_demo\exposing_demo\bin\Release\exposing_demo.exe
+C:\Users\ktolb\source\repos\exposing_demo\exposing_demo\bin\Release\exposing_demo.pdb
+C:\Users\ktolb\source\repos\exposing_demo\exposing_demo\obj\Release\exposing_demo.csproj.CoreCompileInputs.cache
+C:\Users\ktolb\source\repos\exposing_demo\exposing_demo\obj\Release\exposing_demo.exe
+C:\Users\ktolb\source\repos\exposing_demo\exposing_demo\obj\Release\exposing_demo.pdb

